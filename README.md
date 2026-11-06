@@ -1,5 +1,7 @@
 # The Wired
 
+I WILL ADD THE CODE SOON
+
 **A distributed AI agent operating system that orchestrates intelligent work across machines, models, and services.**
 
 The Wired is a personal AI infrastructure platform — a 24/7 controller that accepts jobs via Telegram, API, CLI, or voice, routes them to local or cloud LLMs based on data sensitivity policies, manages enrolled worker machines, monitors system health, controls IoT devices, and recovers automatically from failures.
@@ -177,7 +179,7 @@ Or bare metal via `deploy/setup.sh` — a 40-step automated install (BIOS, LUKS,
 | Emergency stop | Instant stop, instant release | None |
 | Duplicate submission | Idempotency key dedup | None |
 
-All 12 scenarios documented in detail in [Moreabouttheproject.txt](Moreabouttheproject.txt).
+All 12 scenarios documented in detail in [TECHNICAL_REFERENCE.md](TECHNICAL_REFERENCE.md).
 
 ---
 
